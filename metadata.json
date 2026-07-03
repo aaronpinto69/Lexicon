@@ -1,0 +1,6 @@
+{
+  "name": "Lexicon",
+  "description": "Premium Apple-inspired pitch-black OLED English dictionary & vocabulary acquisition app for CAT, GRE, GMAT, and SAT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

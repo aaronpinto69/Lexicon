@@ -1,0 +1,32 @@
+[
+  {
+    "prefix": "anti-",
+    "meaning": "against, opposite of",
+    "origin": "Greek",
+    "exampleWordsJson": "[\"antibiotic\", \"antisocial\", \"anticlimax\", \"antidote\"]"
+  },
+  {
+    "prefix": "pre-",
+    "meaning": "before, in advance",
+    "origin": "Latin",
+    "exampleWordsJson": "[\"predict\", \"prepare\", \"prevent\", \"prehistoric\"]"
+  },
+  {
+    "prefix": "hyper-",
+    "meaning": "over, above, beyond, excessive",
+    "origin": "Greek",
+    "exampleWordsJson": "[\"hyperactive\", \"hypersensitive\", \"hyperbole\", \"hyperventilate\"]"
+  },
+  {
+    "prefix": "poly-",
+    "meaning": "many, several",
+    "origin": "Greek",
+    "exampleWordsJson": "[\"polygon\", \"polytheism\", \"polygamy\", \"polyglot\"]"
+  },
+  {
+    "prefix": "sub-",
+    "meaning": "under, below, beneath",
+    "origin": "Latin",
+    "exampleWordsJson": "[\"submarine\", \"substandard\", \"submerge\", \"subconscious\"]"
+  }
+]

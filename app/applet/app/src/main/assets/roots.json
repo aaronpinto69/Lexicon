@@ -1,0 +1,38 @@
+[
+  {
+    "root": "bene",
+    "meaning": "good, well",
+    "origin": "Latin",
+    "exampleWordsJson": "[\"beneficial\", \"benevolent\", \"benefactor\", \"beneficiary\", \"benign\"]"
+  },
+  {
+    "root": "magn",
+    "meaning": "great, large",
+    "origin": "Latin",
+    "exampleWordsJson": "[\"magnify\", \"magnificent\", \"magnitude\", \"magnanimous\"]"
+  },
+  {
+    "root": "dict",
+    "meaning": "to say, to speak",
+    "origin": "Latin",
+    "exampleWordsJson": "[\"dictate\", \"dictionary\", \"predict\", \"contradict\", \"verdict\"]"
+  },
+  {
+    "root": "chron",
+    "meaning": "time",
+    "origin": "Greek",
+    "exampleWordsJson": "[\"chronological\", \"chronic\", \"synchronize\", \"chronicle\"]"
+  },
+  {
+    "root": "phil",
+    "meaning": "love",
+    "origin": "Greek",
+    "exampleWordsJson": "[\"philosophy\", \"philanthropy\", \"bibliophile\", \"philharmonic\"]"
+  },
+  {
+    "root": "morph",
+    "meaning": "form, shape",
+    "origin": "Greek",
+    "exampleWordsJson": "[\"morphology\", \"amorphous\", \"metamorphosis\"]"
+  }
+]

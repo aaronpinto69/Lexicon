@@ -1,0 +1,52 @@
+[
+  {
+    "idiom": "Bite the bullet",
+    "meaning": "To endure a painful or otherwise unpleasant situation that is seen as unavoidable.",
+    "literalMeaning": "To literally bite down on a bullet.",
+    "origin": "Historically, patients would bite on a bullet to cope with the pain of surgery before anesthetics were common.",
+    "examplesJson": "[\"I hate going to the dentist, but I'll just have to bite the bullet.\", \"Deciding it was time to bite the bullet, he finally paid off his debts.\"]",
+    "similarIdiomsJson": "[\"Grit one's teeth\", \"Face the music\"]",
+    "category": "Endurance",
+    "difficulty": "Medium"
+  },
+  {
+    "idiom": "Break the ice",
+    "meaning": "To do or say something to relieve tension or get conversation going at the start of a party or when people meet for the first time.",
+    "literalMeaning": "To break through the ice.",
+    "origin": "In the days of sail-powered exploration, special ships called 'icebreakers' would forge ahead to create a path for others.",
+    "examplesJson": "[\"He told a joke to break the ice at the start of the meeting.\", \"It can be hard to break the ice with strangers.\"]",
+    "similarIdiomsJson": "[\"Get the ball rolling\", \"Smooth the way\"]",
+    "category": "Social",
+    "difficulty": "Easy"
+  },
+  {
+    "idiom": "Under the weather",
+    "meaning": "Slightly unwell or in low spirits.",
+    "literalMeaning": "To be beneath the weather.",
+    "origin": "A nautical term. When a sailor was unwell, they would be sent below deck to protect them from the weather.",
+    "examplesJson": "[\"I'm feeling a bit under the weather today.\", \"She called in sick because she was under the weather.\"]",
+    "similarIdiomsJson": "[\"Off-color\", \"Indisposed\"]",
+    "category": "Health",
+    "difficulty": "Easy"
+  },
+  {
+    "idiom": "Spill the beans",
+    "meaning": "To reveal secret information unintentionally or indiscreetly.",
+    "literalMeaning": "To drop beans.",
+    "origin": "Possibly derived from an ancient Greek method of voting using white and black beans in a jar. If the jar tipped over, the secret vote was revealed.",
+    "examplesJson": "[\"Come on, spill the beans! What did he say?\", \"We're organizing a surprise party, so don't spill the beans.\"]",
+    "similarIdiomsJson": "[\"Let the cat out of the bag\", \"Give the game away\"]",
+    "category": "Secrets",
+    "difficulty": "Medium"
+  },
+  {
+    "idiom": "A blessing in disguise",
+    "meaning": "An apparent misfortune that eventually has good results.",
+    "literalMeaning": "A blessing that is wearing a disguise.",
+    "origin": "First appeared in print in the mid-18th century, used to describe an event that initially seems bad but turns out to be beneficial.",
+    "examplesJson": "[\"Losing that job was a blessing in disguise; it pushed me to start my own business.\", \"The rain on our wedding day was a blessing in disguise because it forced us inside where it was warmer.\"]",
+    "similarIdiomsJson": "[\"Every cloud has a silver lining\"]",
+    "category": "Outcome",
+    "difficulty": "Medium"
+  }
+]

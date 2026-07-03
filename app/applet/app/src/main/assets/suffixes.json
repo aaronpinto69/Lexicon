@@ -1,0 +1,32 @@
+[
+  {
+    "suffix": "-ology",
+    "meaning": "study of, science of",
+    "origin": "Greek",
+    "exampleWordsJson": "[\"biology\", \"psychology\", \"geology\", \"sociology\"]"
+  },
+  {
+    "suffix": "-ous",
+    "meaning": "possessing, full of",
+    "origin": "Latin",
+    "exampleWordsJson": "[\"joyous\", \"nervous\", \"courageous\", \"hazardous\"]"
+  },
+  {
+    "suffix": "-tion",
+    "meaning": "state, condition, action",
+    "origin": "Latin",
+    "exampleWordsJson": "[\"action\", \"condition\", \"revolution\", \"creation\"]"
+  },
+  {
+    "suffix": "-less",
+    "meaning": "without",
+    "origin": "Old English",
+    "exampleWordsJson": "[\"fearless\", \"hopeless\", \"careless\", \"endless\"]"
+  },
+  {
+    "suffix": "-ful",
+    "meaning": "full of, characterized by",
+    "origin": "Old English",
+    "exampleWordsJson": "[\"beautiful\", \"joyful\", \"hopeful\", \"colorful\"]"
+  }
+]
